@@ -277,6 +277,23 @@ docker compose up --build
 * Git and GitHub
 
 ---
+## Outputs
+<img width="951" height="449" alt="image" src="https://github.com/user-attachments/assets/d9d8965b-0de5-4971-a748-d0a4a7f3336e" />
+
+<img width="850" height="221" alt="image" src="https://github.com/user-attachments/assets/1c306b57-4f2d-4500-9ad3-2f873d95b4d0" />
+<img width="803" height="326" alt="image" src="https://github.com/user-attachments/assets/b02428a1-ee28-4716-8fa1-447622252157" />
+<img width="809" height="167" alt="image" src="https://github.com/user-attachments/assets/0f7c4b44-c45e-4e31-a289-7e373059374b" />
+<img width="957" height="434" alt="image" src="https://github.com/user-attachments/assets/31a9b559-32c7-4499-a7d6-b49dee936add" />
+<img width="848" height="283" alt="image" src="https://github.com/user-attachments/assets/cd3dc610-96b8-4b43-8f71-70d90f1bf8d9" />
+<img width="848" height="254" alt="image" src="https://github.com/user-attachments/assets/6a8b3d49-4675-4348-9c31-aff98e8ef3b2" />
+<img width="948" height="450" alt="image" src="https://github.com/user-attachments/assets/740db53c-3258-4699-8cf3-e0e48368259a" />
+<img width="951" height="407" alt="image" src="https://github.com/user-attachments/assets/3d1e9581-d849-4a37-b534-15995d0bb5ed" />
+
+
+
+
+
+
 
 ## Author
 
